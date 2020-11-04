@@ -1,0 +1,473 @@
+.navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute
+}
+
+.navbar {
+    background-color: rgba(38, 38, 38, 0.5);
+    border: 0;
+    margin-bottom: 0px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+li {
+    font-family: "Libre Caslon Display";
+    letter-spacing: 1px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 1.5em;
+    margin-right: 100px;
+}
+
+.bg-1 {
+    background-image: url("Images/Header%20Image.jpg");
+    background-size: cover;
+    width: 100%;
+    padding-right: 0%;
+    padding-left: 0%;
+}
+
+.bg-2 {
+    background-color: #262626;
+}
+
+.bg-3 {
+    background-color: black;
+    border: 0;
+}
+
+.bg-4 {
+    background-image: url("Images/Fine%20Art.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-5 {
+    background-color: #262626;
+}
+
+.bg-1 h1 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 4em;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.bg-1 h2 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    margin-top: 80%;
+    margin-bottom: auto;
+    margin-right: 10%
+}
+
+.bg-1 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    margin-top: auto;
+    margin-left: 70%;
+}
+
+.headerbtn {
+    margin-bottom: 70%;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+
+.textelement {
+    float: right;
+    margin-right: 5%;
+}
+
+.textelement img {
+    margin-left: 35%
+}
+
+.bg-2 h4 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    font-size: 2.5em;
+    padding-top: 60px;
+}
+
+.bg-2 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1.5em;
+    letter-spacing: 0.5px;
+    padding-bottom: 50px;
+    padding-top: 10px
+}
+
+.bg-3 h3 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 2em;
+    padding-top: 20%;
+    padding-left: 15%;
+}
+
+.bg-3 img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-3 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    padding-left: 15%;
+}
+
+.bg3btn {
+    margin-left: 15%
+}
+
+.bg4btn {
+    margin-bottom: 20%;
+}
+
+.bg-4 h3 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 2em;
+    padding-top: 20%;
+}
+
+.bg-4 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    margin-right: 60%;
+}
+
+.bg-5 h3 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 2em;
+    padding-top: 30%;
+    padding-left: 80px;
+}
+
+.bg-5 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    margin-left: 15%
+}
+
+.bg-5 img {
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
+
+.bg5btn {
+    margin-left: 15%;
+}
+
+.btn {
+    color: #f03030;
+    background: transparent;
+    border: 1px solid #f03030;
+    border-radius: 0px;
+    font-family: "Libre Caslon Display";
+}
+
+li {
+    font-family: "Libre Caslon Display";
+    letter-spacing: 1px;
+}
+
+.site-footer {
+    background: black;
+}
+
+.site-footer p {
+    background: black;
+    color: #ffffff;
+    text-align: center;
+    font-size: 1em;
+    font-family: "Libre Caslon Display";
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 0.5px;
+}
+
+.socialicons {
+    padding-top: 10px;
+    padding-left: 5%;
+
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 15px;
+    font-size: 50px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: white;
+    color: black;
+    margin-right: 10px;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: white;
+    color: black;
+    margin-right: 10px;
+}
+
+/* Instagram */
+.fa-instagram {
+    background: white;
+    color: black;
+    margin-right: 10px;
+}
+
+.bg1 {
+    background-color: #262626;
+    background-size: cover;
+    width: 100%;
+}
+
+.bg1 h1 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 4em;
+    margin-top: 10%;
+    margin-bottom: auto;
+}
+
+.bg1 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 1em;
+    margin-top: auto;
+    margin-bottom: 10%;
+}
+
+.bg2 {
+    background-color: black;
+    border: 0;
+}
+
+.bg2 h3 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 2em;
+    padding-top: 15%;
+    padding-left: 15%;
+}
+
+.bg2 img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg2 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    padding-left: 15%;
+}
+
+.bg2 h5 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    text-align: right;
+    padding-right: 15px;
+    padding-bottom: 5%
+}
+
+.bg3 {
+    background-color: black;
+}
+
+.bg3 h2 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 2em;
+    padding-bottom: 50px;
+}
+
+.bg3 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    padding-left: 15%;
+}
+
+.bg4 {
+    background-color: #262626;
+    background-size: cover;
+    width: 100%;
+}
+
+.bg4 h4 {
+    font-family: "Libre Caslon Display";
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 3em;
+    margin-top: 5%;
+    margin-bottom: auto;
+}
+
+.bg4 p {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 1.5em;
+    letter-spacing: 0.5px;
+    margin-top: 30px;
+    margin-bottom: 5%
+}
+
+.background1 {
+    background-image: url("Images/Gallery%20Header.jpg");
+    background-size: cover;
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.background1 h1 {
+    font-family: "Libre Caslon Display";
+    color: black;
+    letter-spacing: 1px;
+    font-size: 4em;
+    margin-top: 20%;
+    margin-bottom: auto;
+}
+
+.background1 p {
+    font-family: "Roboto";
+    color: black;
+    letter-spacing: 1px;
+    font-size: 1em;
+    margin-top: auto;
+    margin-bottom: 20%;
+}
+
+.gallery {
+    padding-top: 50px;
+}
+
+
+/*this media query breaks the navbar early at 990px screen size- change the 990px to whatever you like*/
+@media (max-width: 1500px) {
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    .navbar-collapse.collapse.in {
+        display: block !important;
+    }
+
+    .navbar-header .collapse,
+    .navbar-toggle {
+        display: block !important;
+    }
+
+    .navbar-header {
+        float: left;
+        padding-bottom: 65px; 
+}
+
+@media (max-width:1000px) {
+    .bg-3 img {
+        width: 75%;
+        margin: 0px; 
+        padding-left: 25%
+    
+    }
+
+    .bg-3 h3 {
+        padding-top: 0px;
+        text-align: center;
+        margin: 0px;
+        padding-left: 0px;
+    }
+
+    .bg-3 p {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        text-align: center;
+        margin: 0px;
+        padding-left: 0px;
+    }
+
+    .bg3btn {
+        margin-left: 40%;
+        margin-bottom: 30px
+    }
+    }
+    
+    @media (max-width:990px){
+    .bg-5 h3{ 
+        padding-top: 0px;
+        text-align: center;
+        margin: 0px;
+        padding-left: 0px;
+    }
+    
+    .bg-5 img {
+        width: 100%;
+        margin: 0px; 
+    }
+    .bg-5 p{ 
+        padding-top: 10px;
+        padding-bottom: 20px;
+        text-align: center;
+        margin: 0px;
+        padding-left: 0px;
+    }
+    
+       .bg5btn {
+        margin-left: 40%;
+        margin-bottom: 30px
+    }
+    
+    .socialicons {
+    padding-top: 0px;
+    padding-left: 40%;
+    margin-bottom: 20px; 
+}   
+}
